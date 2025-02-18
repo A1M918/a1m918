@@ -1,6 +1,6 @@
 # Muhammad Aamir Mughal  
 **Senior Full-Stack Engineer**  
-Phone: +34 612567978 | Email: 9.one.eight@gmail.com  
+Phone: +34 [upon request] | Email: 9.one.eight@gmail.com  
 LinkedIn: [linkedin.com/in/aim918](https://www.linkedin.com/in/aim918) | GitHub: [github.com/AIM918](https://github.com/AIM918)  
 
 ---
