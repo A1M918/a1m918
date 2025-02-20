@@ -1,109 +1,96 @@
 # Muhammad Aamir Mughal  
 **Senior Full-Stack Engineer**  
-📞 Phone: +34 [upon request] | 📧 Email: 9.one.eight@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/aim918](https://linkedin.com/in/aim918) | 💻 GitHub: [github.com/AIM918](https://github.com/AIM918)  
+*Phone:* +34 [upon request] | *Email:* 9.one.eight@gmail.com | *Skype:* 9.one.eight@gmail.com  
+*Github:* [https://github.com/AIM918](https://github.com/AIM918) | *LinkedIn:* [https://www.linkedin.com/in/aim918](https://www.linkedin.com/in/aim918) | *Medium:* [https://medium.com/a9.one.eight](https://medium.com/a9.one.eight)  
 
 ---
 
-## Professional Summary  
-Results-driven **Senior Full-Stack Engineer** with **6+ years** of experience in designing, developing, and deploying scalable web and mobile applications. Proficient in **TypeScript, JavaScript, React, Node.js, Angular, AWS, and MongoDB**. Skilled in **Agile methodologies**, **unit and end-to-end testing**, and mentoring junior developers. Passionate about solving complex problems and delivering high-quality, user-centric solutions.  
+## **Professional Summary**  
+Highly skilled and passionate Senior Full-Stack Engineer with 6+ years of experience in web development, mobile applications, cloud computing, IoT, and DevOps. Proven expertise in **TypeScript, JavaScript, React, Node.js, Angular, AWS Serverless, MongoDB, SQL, and Python**. Adept at solving complex problems, leading teams, and delivering high-quality software solutions. Strong advocate for Agile methodologies, code quality, and continuous learning.
 
 ---
 
-## Technical Skills  
-- **Programming Languages**: TypeScript, JavaScript, Python  
-- **Frontend**: React, Angular, Redux, Redux Saga
-- **Backend**: Node.js, Express, Serverless, RESTful APIs, GraphQL  
-- **Databases**: MongoDB, MySQL, PostgreSQL, MSSQL  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Terraform, Redis, Docker  
-- **Testing**: Jest, Mocha, Sinon, Supertest, Cypress  
-- **Tools**: GitHub, JIRA, ServiceNow, Webpack, NPM  
-- **IoT**: Arduino, Sensors, Embedded Systems  
-- **Languages**: English (Proficient), Urdu (Native)  
+## **Professional Experience**  
 
----
-
-## Professional Experience  
-
-### **Senior Full-Stack Engineer**  
-**EPAM Systems S.L, Malaga, Spain**  
+### **EPAM Systems S.L, Malaga, Spain**  
+**Senior Full-Stack Engineer**  
 *June 2022 – Present*  
-- Developed and maintained **web applications** using **React (TypeScript)** and **Node.js (TypeScript)**, improving application performance by **25%**.  
-- Conducted **code reviews** and enforced coding standards, reducing production bugs by **20%**.  
-- Wrote **unit and end-to-end tests** using **Jest, Mocha, and Sinon**, achieving **95% test coverage**.  
-- Collaborated with cross-functional teams using **Agile methodologies** and **JIRA**, delivering projects **10% ahead of schedule**.  
-- Integrated **ServiceNow** and **Redis** for backend solutions, enhancing system reliability and scalability.  
-
-### **Senior Full-Stack Engineer**  
-**10pearls, PK**  
-*July 2020 – May 2022*  
-- Built and maintained applications using **React (TypeScript), Node.js (TypeScript), Angular, MongoDB, and AWS**, serving **10,000+ active users**.  
-- Mentored **5+ junior developers** and conducted training sessions on **Terraform**, improving team efficiency by **15%**.  
-- Implemented **unit and end-to-end tests** using **Jest, Mocha, Sinon, and Supertest**, reducing bug reports by **30%**.  
-- Reviewed **pull requests** and ensured adherence to coding standards, maintaining a **98% code quality score**.  
-- Followed **Agile methodologies** and managed tasks using **JIRA**, achieving a **90% on-time delivery rate**.  
-
-### **Senior Backend Developer**  
-**6.Networks Communications, London**  
-*October 2019 – July 2020*  
-- Led a **distributed Node.js team** across the UK, Pakistan, and Ukraine, delivering projects with **100% client satisfaction**.  
-- Implemented **serverless architectures**, reducing infrastructure costs by **40%**.  
-- Wrote **unit tests** using **Mocha, Sinon, and Assert**, achieving **90% test coverage**.  
-- Conducted **code reviews** and promoted best coding practices, improving code maintainability by **25%**.  
-- Researched and implemented new technologies, enhancing system performance by **20%**.  
-
-### **Full Stack Mobile Developer**  
-**Try Smart Bite, Malaysia**  
-*April 2019 – October 2019*  
-- Developed and optimized **mobile applications** using **React Native and Node.js**, improving app performance by **30%**.  
-- Designed and integrated **APIs** with business logic in **Node.js**, reducing API response time by **20%**.  
-- Collaborated with a globally distributed team across Malaysia, Pakistan, India, Singapore, and Italy, ensuring seamless project delivery.  
-
-### **Full Stack Mobile Developer**  
-**Skoolify, PK**  
-*April 2018 – March 2019*  
-- Built **mobile applications** using **React Native, Redux, and Redux Saga**, serving **5,000+ active users**.  
-- Integrated **Google FCM** for push notifications, increasing user engagement by **25%**.  
-- Optimized app performance and added new features, achieving a **4.7/5 app store rating**.  
-- Developed **backend APIs** using **Node.js**, reducing API latency by **15%**.  
-
-### **Software Engineer**  
-**Square Consulting Pvt. Ltd, PK**  
-*April 2018 – March 2019*  
-- Customized **open-source PHP-based CRM systems** for private banks, improving system efficiency by **20%**.  
-- Integrated **banking transaction APIs**, reducing transaction processing time by **30%**.  
-- Deployed projects on-site, ensuring **100% client satisfaction**.  
-
-### **Junior Software Engineer**  
-**Octaves Technologies, PK**  
-*March 2017 – February 2018*  
-- Customized **open-source PHP Yii-based CRM** for flight agents, improving system usability by **25%**.  
-- Developed **back-office solutions** and **business-to-business setups**, increasing operational efficiency by **20%**.  
-- Worked on **IoT projects** using **Arduino and sensors**, delivering innovative solutions for clients.  
+- Developed a **web-based tool** for researchers to find and summarize patents and published documents in the field of chemistry, integrating **AI technologies** for user guidance and summarization.  
+- Contributed to a **social media platform** for graphic creators and artists, enabling users to vote on designs and order custom T-shirts, with royalty distribution to stakeholders.  
+- Refactored and optimized the architecture of a **fintech project** for a London-based stock giant, integrating **ServiceNow** for streamlined operations.  
+- **Tech Stack:** React (TypeScript), Node (TypeScript), Angular, ServiceNow, Redis.  
+- Wrote **unit and end-to-end tests** using Jest, Mocha, and Sinon.  
+- Conducted code reviews, maintained coding standards, and ensured high-quality deliverables.  
+- Followed **Agile methodologies**, including daily stand-ups, sprints, and JIRA for project management.  
 
 ---
 
-## Education  
+### **G.Networks Communications, London, UK**  
+**Senior Back-End Developer**  
+*October 2019 – July 2020*  
+- Led a **Node.js team** distributed across the UK, Pakistan, and Ukraine, implementing **serverless methodologies** on AWS.  
+- Developed and maintained backend systems using **React, Node.js, MongoDB, and AWS**.  
+- Wrote **unit tests** using Mocha, Sinon, and Assert.  
+- Conducted code reviews and mentored junior developers to improve coding practices.  
+- Researched and implemented new technologies to enhance system performance and scalability.  
+
+---
+
+### **Try Smart Bite, Malaysia**  
+**Full Stack Mobile Developer**  
+*April 2019 – October 2019*  
+- Worked as part of a global engineering team (PK, NYS, IND, SGP, ITA) to develop and optimize a **React Native** mobile application.  
+- Improved app performance by implementing best practices and optimizing UI/UX.  
+- Developed new APIs and implemented business logic using **Node.js**.  
+- Collaborated with cross-functional teams to add and optimize features.  
+
+---
+
+### **Skoolify, Pakistan**  
+**Full Stack Mobile Developer**  
+*April 2018 – March 2019*  
+- Developed and optimized mobile applications using **React Native, Redux, and Redux Saga**.  
+- Implemented **push notifications** using Google FCM.  
+- Enhanced app performance and added new features to improve user experience.  
+
+---
+
+### **Square Consulting Pvt. Ltd, Pakistan**  
+**Software Engineer**  
+*April 2018 – March 2019*  
+- Developed and customized **PHP-based CRM systems** for private banks, integrating banking transaction APIs.  
+- Worked with **React, Node.js, Angular, MySQL, and MSSQL** to deliver scalable solutions.  
+- Deployed projects on-site and collaborated with cross-functional teams to ensure successful implementation.  
+
+---
+
+### **Octaves Technologies, Pakistan**  
+**Junior Software Engineer**  
+*March 2017 – February 2018*  
+- Customized **OpenSource PHP Yii-based CRM** systems for flight agents.  
+- Developed back-office solutions and created business-to-business setups.  
+- Worked on an **IoT project** using Arduino and various sensors.  
+
+---
+
+## **Education**  
 **Bachelor of Computer Science**  
-*Bahria University, Karachi, PK*  
+*Bahria University, Karachi, Pakistan*  
 *February 2014 – December 2017*  
 
 ---
 
-## Certifications & Training  
-- **Terraform Training** (Conducted for Topearls)  
-- **Serverless Architectures** (Self-taught and implemented at 6.Networks)  
+## **Technical Skills**  
+- **Programming Languages:** TypeScript, JavaScript, Python, PHP  
+- **Frontend:** React, Angular, Redux, Redux Saga  
+- **Backend:** Node.js, Express.js, Serverless Architecture  
+- **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL  
+- **Cloud & DevOps:** AWS, Terraform, Docker  
+- **Testing:** Jest, Mocha, Sinon, Supertest  
+- **Other Tools:** JIRA, Git, ServiceNow, Arduino  
 
 ---
 
-## Key Achievements  
-- Successfully led and mentored **distributed teams** across multiple countries, ensuring seamless project delivery.  
-- Optimized **mobile app performance**, resulting in a **30% improvement in user experience**.  
-- Implemented **serverless architectures**, reducing infrastructure costs by **40%**.  
-- Conducted **training sessions on Terraform**, improving team efficiency by **15%**.  
-
----
-
-## Additional Information  
-- **Availability**: Immediately available  
-- **Visa Status**: Eligible to work in Spain 
+## **Languages**  
+- **English:** Proficient  
+- **Urdu:** Native  
