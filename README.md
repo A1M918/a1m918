@@ -44,7 +44,7 @@ Results-driven **Senior Full-Stack Engineer** with **6+ years** of experience in
 - Followed **Agile methodologies** and managed tasks using **JIRA**, achieving a **90% on-time delivery rate**.  
 
 ### **Senior Backend Developer**  
-**6.Networks Communications, London**  
+**G.Networks Communications, London**  
 *October 2019 – July 2020*  
 - Led a **distributed Node.js team** across the UK, Pakistan, and Ukraine, delivering projects with **100% client satisfaction**.  
 - Implemented **serverless architectures**, reducing infrastructure costs by **40%**.  
