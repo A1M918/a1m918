@@ -13,16 +13,17 @@ Results-driven **Senior Full-Stack Engineer** with **6+ years** of experience in
 
 ---
 
-## Technical Skills
-- **Programming Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Angular, Redux, Redux Saga
-- **Backend:** Node.js, Express, Serverless, RESTful APIs, GraphQL
-- **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Terraform, Redis, Docker
-- **Testing:** Jest, Mocha, Sinon, Supertest, Cypress
-- **Tools:** GitHub, JIRA, ServiceNow, Webpack, NPM
-- **IoT:** Arduino, Sensors, Embedded Systems
-- **Languages:** English (Proficient), Urdu (Native)
+## **Technical Skills**  
+
+| Category          | Technologies/Tools                                                                 |
+|-------------------|-----------------------------------------------------------------------------------|
+| **Languages**     | TypeScript, JavaScript, Python, PHP                                               |
+| **Frontend**      | React, Angular, Redux, Redux Saga                                                 |
+| **Backend**       | Node.js, Express.js, Serverless Architecture                                      |
+| **Databases**     | MongoDB, MySQL, PostgreSQL, MSSQL                                                |
+| **Cloud & DevOps**| AWS (Serverless), Terraform, Docker                                               |
+| **Testing**       | Jest, Mocha, Sinon, Supertest                                                    |
+| **Tools**         | JIRA, Git, ServiceNow, Arduino                                                   |
 
 ---
 
